@@ -1,0 +1,22 @@
+1. buatlah sebuah form syarat masuk TNI/Polri
+- nama
+- tinggi badan
+- bb
+- jk
+
+laki-laki, tinggi badan < 170, bb > 90 -> tidak diterima
+perempuan , tinggi < 160, bb > 75 -> tidak diterima
+
+laki-laki, tinggi badan > 170 ->  diterima
+perempuan , tinggi > 160 ->  diterima
+
+2. Masuk Perguruan tinggi
+- nama
+- nilai Matematika
+- nilai Bahasa Indonesia
+- Nilai Bahasa Inggris
+- Nilai Kejuran
+
+jika jumlah nya kurang dari 340 atau rata-rata kurang dari 8.5
+maka dinyatakan tidak diterima di perguruan tinggi tersebut
+jika sebaliknya maka diterima

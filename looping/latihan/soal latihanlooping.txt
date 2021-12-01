@@ -1,0 +1,57 @@
+1. buatlah pengulangan seperti dibawah ini 
+   menggunakan nested
+    1 2 3 4 5 6 7 8 9 10 
+    2 3 4 5 6 7 8 9 10 
+    3 4 5 6 7 8 9 10 
+    4 5 6 7 8 9 10 
+    5 6 7 8 9 10 
+    6 7 8 9 10 
+    7 8 9 10 
+    8 9 10 
+    9 10 
+    10
+
+2. buatlah pengulangan seperti dibawah ini 
+   menggunakan nested
+    3 
+    5 6 
+    7 8 9 
+    9 10 11 12 
+    11 12 13 14 15 
+    13 14 15 16 17 18 
+    15 16 17 18 19 20 21 
+    17 18 19 20 21 22 23 24 
+    19 20 21 22 23 24 25 26 27 
+    21 22 23 24 25 26 27 28 29 30
+
+3. buatlah pengulangan seperti dibawah ini menggunakan nested
+    2 3 4 5 6 
+    3 4 5 6 7 
+    4 5 6 7 8 
+    5 6 7 8 9 
+    6 7 8 9 10
+
+4. buatlah pengulangan seperti dibawah ini menggunakan nested
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+5. buatlah pengulangan seperti dibawah ini menggunakan nested
+   * * * * *
+    * * * *
+     * * *
+      * *
+       *
+
+6. buatlah pengulangan seperti dibawah ini menggunakan nested
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+    * * * *
+     * * *
+      * *
+       *
